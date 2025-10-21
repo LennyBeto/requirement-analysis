@@ -16,3 +16,15 @@ The primary goal of this project is to demonstrate how clear, structured, and va
 - Acceptance Criteria
 
 - Supporting diagrams and models
+
+## 📌 What is Requirement Analysis?
+
+Requirement Analysis is a critical, early stage of the Software Development Life Cycle (SDLC). Its primary job is to collect, evaluate, and formally document all the needs and expectations from stakeholders regarding the new software system. This includes defining both functional (what the system does) and non-functional (how it performs) requirements. Essentially, this phase serves as the bridge connecting the client's original vision with the technical implementation, ensuring everyone—from developers to clients—has a clear, shared understanding of the system's objectives and constraints.
+
+## 🧠 Key Objectives of Requirement Analysis:
+
+- Identify and define the scope of the system.
+- Gather requirements from all relevant stakeholders.
+- Document requirements clearly and unambiguously.
+- Analyze and prioritize features based on business value and feasibility.
+- Validate requirements to ensure completeness and correctness.
