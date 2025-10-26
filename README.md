@@ -151,6 +151,9 @@ Below is a use case diagram representing the core interactions in the Booking Ma
 
 Use Case Diagram for Booking System
 
+<img width="767" height="441" alt="alx-booking-uc" src="https://github.com/LennyBeto/requirement-analysis/alx-booking-uc.png" />
+
+
 📝 _Diagram created using Draw.io and exported as alx-booking-uc.png.
 
 ✅ Acceptance Criteria
